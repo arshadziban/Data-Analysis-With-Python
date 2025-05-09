@@ -52,6 +52,10 @@ The project includes various visualizations:
 
 ![](1.png)
 ![](2.png)
+![](3.png)
+![](4.png)
+![](5.png)
+![](6.png)
 
 ## Analysis Focus
 
@@ -65,5 +69,3 @@ The analysis particularly examines:
 ## Conclusion
 
 This analysis provides valuable insights into the mental health challenges faced by students and identifies key factors that correlate with depression and suicidal thoughts. These findings could inform targeted interventions and support systems for vulnerable student populations.
-
-
