@@ -25,19 +25,19 @@ The main components of this project include:
 ### Class Distribution
 The dataset exhibits a significant class imbalance, with most patients being non-diabetic (Class 0), fewer prediabetic (Class 1), and even fewer diabetic (Class 2). This imbalance may impact model performance.
 
-![Distribution of Diabetes Classes](images/1.png "Histogram showing the distribution of diabetes classes")
+![Distribution of Diabetes Classes](1.png "Histogram showing the distribution of diabetes classes")
 
 ### Correlation Analysis
 The correlation matrix reveals relationships between features and the target variable (CLASS). Notably, HbA1c and BMI show strong positive correlations with diabetes status, making them key predictors.
 
-![Correlation Matrix](images/2.png "Heatmap showing correlations between features and CLASS")
+![Correlation Matrix](2.png "Heatmap showing correlations between features and CLASS")
 
 
 
 ## Decision Tree Model
 The decision tree classifier was trained on the preprocessed dataset. The tree primarily splits on features like HbA1c, BMI, and AGE, which are strong predictors of diabetes status as identified in the correlation analysis.
 
-![Decision Tree](images/3.png "Decision tree structure for diabetes prediction")
+![Decision Tree](3.png "Decision tree structure for diabetes prediction")
 
 ## Requirements
 
