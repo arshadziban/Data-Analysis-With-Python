@@ -37,8 +37,3 @@ It includes step-by-step notebooks that explore:
 - Interactive visualizations for better insight discovery  
 - Use of descriptive statistics and correlation analysis  
 - Clear conclusions and key findings at the end
-
----
-
-## 📊 Project Structure
-
