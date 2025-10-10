@@ -1,11 +1,11 @@
-# 🧠 Data Analysis With Python
+# Data Analysis With Python
 
 Welcome to **Data Analysis With Python** — a complete hands-on project demonstrating how to collect, clean, analyze, visualize, and interpret data using Python.  
 This repository showcases various data analysis techniques applied to real-world datasets, covering the full analytical pipeline from raw data to insights.
 
 ---
 
-## 📂 Project Overview
+##  Project Overview
 
 This project focuses on **data-driven decision-making** using Python libraries.  
 It includes step-by-step notebooks that explore:
@@ -18,7 +18,7 @@ It includes step-by-step notebooks that explore:
 
 ---
 
-## 🧩 Technologies & Libraries Used
+##  Technologies & Libraries Used
 
 | Category | Libraries |
 |-----------|------------|
@@ -30,7 +30,7 @@ It includes step-by-step notebooks that explore:
 
 ---
 
-## 📘 Features
+## Features
 
 - Clean and well-commented Jupyter notebooks  
 - Comprehensive exploratory data analysis  
